@@ -72,7 +72,7 @@ Windows / macOS / Android 三端 · Fluent 设计 · 沉浸式竖屏播放
 │     ├─ api.rs              业务命令
 │     ├─ media.rs            封面解密 + HLS 代理 + 缓存
 │     └─ session.rs          token 持久化
-└─ docs/API.md               接口文档
+└─ docs/                     安全、播放与缓存排查文档
 ```
 
 ## 开发 / 构建
